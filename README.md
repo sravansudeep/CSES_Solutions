@@ -1,2 +1,2 @@
 # CSES_Solutions
-Track my solutions to CSES Problems
+To track my solutions to CSES Problems
